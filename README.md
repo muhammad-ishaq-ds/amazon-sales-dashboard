@@ -77,7 +77,7 @@ Counts of orders completed, cancelled, or pending.
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/amazon-sales-dashboard.git
+   git clone https://github.com/muhammad-ishaq-ds/amazon-sales-dashboard.git
    ```  
 
 2. Navigate to the project folder:  
@@ -135,4 +135,4 @@ amazon-sales-dashboard/
 ---
 
 ## 👨‍💻 Author  
-**Your Name** – [GitHub Profile](https://github.com/your-username)  
+**Muhammad Ishaq** – [GitHub Profile](https://github.com/muhammad-ishaq-ds)  
