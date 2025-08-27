@@ -103,7 +103,7 @@ Counts of orders completed, cancelled, or pending.
 - 📈 **Footwear** and **Electronics** categories contribute the highest sales  
 - 💳 **Debit Card** is the most preferred payment method  
 - ⏳ Order cancellations are relatively low compared to completed orders  
-- 📅 Sales peak in certain months, showing **seasonal buying trends**  
+- 📅 Sales peak in certain months, showing **Seasonal buying trends**  
 
 ---
 
