@@ -65,7 +65,7 @@ Line chart showing how sales fluctuate month to month.
 
 ### 4. Payment Method Distribution  
 Pie chart showing customer preferences for payment methods.  
-![Payment Methods](images/pament_methods.png)  
+![Payment Methods](images/payment_methods.png)  
 
 ### 5. Order Status Distribution  
 Counts of orders completed, cancelled, or pending.  
