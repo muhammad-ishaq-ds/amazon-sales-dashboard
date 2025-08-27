@@ -53,7 +53,7 @@ I used **Python, Pandas, Matplotlib, and Seaborn** to clean, engineer, and visua
 
 ### 1. Sales by Category  
 Shows which product categories generate the most revenue.  
-![Sales by Category](images/sales_by_category.png)  
+![Sales by Category](images/Sales_by_Category.png)  
 
 ### 2. Top 10 Products by Sales  
 Highlights the highest-performing products.  
