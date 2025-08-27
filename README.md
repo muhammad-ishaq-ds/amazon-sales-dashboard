@@ -61,11 +61,11 @@ Highlights the highest-performing products.
 
 ### 3. Monthly Sales Trend  
 Line chart showing how sales fluctuate month to month.  
-![Monthly Sales Trend](images/monthly_trend.png)  
+![Monthly Sales Trend](images/monthly_trends.png)  
 
 ### 4. Payment Method Distribution  
 Pie chart showing customer preferences for payment methods.  
-![Payment Methods](images/payment_methods.png)  
+![Payment Methods](images/pament_methods.png)  
 
 ### 5. Order Status Distribution  
 Counts of orders completed, cancelled, or pending.  
